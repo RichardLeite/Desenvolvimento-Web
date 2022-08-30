@@ -1,0 +1,17 @@
+body{
+    background-color: #8282ff;
+}
+
+p{
+    text-align: center;
+    letter-spacing: 1rem;
+    font-size: 64px;
+}
+
+.cor_rosa{
+    color:pink
+}
+
+#cor_cinza{
+    color:gray;
+}
