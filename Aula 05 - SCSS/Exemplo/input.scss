@@ -1,0 +1,15 @@
+$font-stack: 100% Helvetica, sans-serif;
+$font-5rem: 5rem;
+$primary-color-dark: #333;
+$primary-color-light: #efefef;
+
+body {
+    font: $font-stack;
+    color: $primary-color-light;
+    h1{
+        font-size: $font-5rem;
+    }
+}
+
+@import '_reset';
+@import 'base.scss';

@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #333333;
+}
+
+p {
+  text-align: center;
+  letter-spacing: 1rem;
+  font: 100% Helvetica, sans-serif;
+  font-size: 5rem;
+}
+
+.cor_rosa {
+  color: #ffc0cb;
+}
+
+#cor_cinza {
+  color: #808080;
+}
+
+/*# sourceMappingURL=styles.css.map */
