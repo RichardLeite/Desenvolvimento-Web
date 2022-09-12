@@ -1,0 +1,14 @@
+
+//base.scss
+@import 'reset';
+
+body {
+    font: Helvetica, sans-serif;
+    background-color: $primary-color-dark;
+    text-align: center;
+}
+
+@mixin important {
+    color: red;
+    font-weight:bold
+}
