@@ -1,0 +1,27 @@
+@import '_reset';
+
+//Variables
+$font-stack: 100% Helvetica, sans-serif;
+$font-5rem: 5rem;
+$color-pink: #ffc0cb;
+$color-gray: #808080;
+$color-dark: #333333;
+
+body{
+    background-color: $color-dark;
+}
+
+p{
+    text-align: center;
+    letter-spacing: 1rem;
+    font: $font-stack;
+    font-size: $font-5rem;
+}
+
+.cor_rosa{
+    color: $color-pink;
+}
+
+#cor_cinza{
+    color: $color-gray;
+}
